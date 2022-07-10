@@ -1,2 +1,2 @@
 # EBACSql
-Trilha de aprendizado aplicando SQL para análise de dados.
+Trilha de aprendizado aplicando SQL para análise de dados descritiva.
